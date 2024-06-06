@@ -1,3 +1,6 @@
 [submodule "harfbuzz"]
 	path = harfbuzz
 	url = https://github.com/harfbuzz/harfbuzz/
+[submodule "freetype-sys"]
+	path = freetype-sys
+	url = https://github.com/PistonDevelopers/freetype-sys
